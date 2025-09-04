@@ -1,0 +1,65 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Uh, Rick, what's a neural network exactly?",
+        "duration_ms": 3422,
+        "start_time_ms": 0,
+        "end_time_ms": 3422
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Morty, it's like an army of tiny, dumb-ass brains working together to recognize patterns. They start off not knowing squat.",
+        "duration_ms": 5930,
+        "start_time_ms": 3922,
+        "end_time_ms": 9852
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wait, they don't know anything at first?",
+        "duration_ms": 2090,
+        "start_time_ms": 10352,
+        "end_time_ms": 12442
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly, Morty. You train them by showing examples, like teaching a baby not to eat sand.",
+        "duration_ms": 5146,
+        "start_time_ms": 12942,
+        "end_time_ms": 18088
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Oh, so you show them stuff and they eventually get it?",
+        "duration_ms": 2821,
+        "start_time_ms": 18588,
+        "end_time_ms": 21409
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Yep, only they get better and faster as they go. And when they finally grasp it, they can recognize things even humans might miss.",
+        "duration_ms": 6087,
+        "start_time_ms": 21909,
+        "end_time_ms": 27996
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Kinda like cheating on a test, huh?",
+        "duration_ms": 1907,
+        "start_time_ms": 28496,
+        "end_time_ms": 30403
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "More like leveling up in a video game, Morty. Except these things can juggle a billion balls at once. Got it?",
+        "duration_ms": 5799,
+        "start_time_ms": 30903,
+        "end_time_ms": 36702
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Yeah, Rick. I think I got it now. Neural networks are like super-smart pattern spotters.",
+        "duration_ms": 5695,
+        "start_time_ms": 37202,
+        "end_time_ms": 42897
+    }
+]
