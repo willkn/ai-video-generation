@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Walter",
+        "dialogue": "Saul, I'm starting to feel the heat. What should I know about going down for dealing?",
+        "duration_ms": 5198,
+        "start_time_ms": 0,
+        "end_time_ms": 5198
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Alright, Walter, drugs in funny papers? Not good. The system sees it like juggling chainsaws, okay? Dangerous and messy.",
+        "duration_ms": 9848,
+        "start_time_ms": 5698,
+        "end_time_ms": 15546
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "But how can I keep everything, you know, above board?",
+        "duration_ms": 3109,
+        "start_time_ms": 16046,
+        "end_time_ms": 19155
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "You need smoke and mirrors, Walt. Keep things separate. The business? That's a brick wall between you and any nosey folks.",
+        "duration_ms": 7758,
+        "start_time_ms": 19655,
+        "end_time_ms": 27413
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "Brick wall? Is that enough?",
+        "duration_ms": 2508,
+        "start_time_ms": 27913,
+        "end_time_ms": 30421
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Picture a moat too. Offshore accounts, shell companies. The goal? Make it look like you're a magician, pulling rabbits, not cash.",
+        "duration_ms": 9143,
+        "start_time_ms": 30921,
+        "end_time_ms": 40064
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "How do I stay clean while doing this?",
+        "duration_ms": 2325,
+        "start_time_ms": 40564,
+        "end_time_ms": 42889
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Keep your day gig squeaky and no flashy buys. Remember, the magician’s trick is all eyes elsewhere. You got it, Walt?",
+        "duration_ms": 7654,
+        "start_time_ms": 43389,
+        "end_time_ms": 51043
+    }
+]

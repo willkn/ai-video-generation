@@ -1,0 +1,44 @@
+{
+    "Morty": {
+        "voice_id": "377e4ac186da47faa3b644d033775954",
+        "image_path": "assets/images/morty.png",
+        "position": "left",
+        "offset_x": 150,
+        "offset_y": -50
+    },
+    "Rick": {
+        "voice_id": "88d465f1189846ed98a0240298cf3e02",
+        "image_path": "assets/images/rick1.png",
+        "position": "right",
+        "offset_x": -150,
+        "offset_y": 100
+    },
+    "Saul": {
+        "voice_id": "da8e00b9bd444b149b946b670f357674",
+        "image_path": "assets/images/saul.png",
+        "position": "left",
+        "offset_x": -150,
+        "offset_y": 100
+    },
+    "Walter": {
+        "voice_id": "ef18a1af5169465396732e7fa24d12e5",
+        "image_path": "assets/images/walter.png",
+        "position": "right",
+        "offset_x": -150,
+        "offset_y": 100
+    },
+    "Trump": {
+        "voice_id": "5196af35f6ff4a0dbf541793fc9f2157",
+        "image_path": "assets/images/trump.png",
+        "position": "left",
+        "offset_x": -150,
+        "offset_y": 100
+    },
+    "Biden": {
+        "voice_id": "12444d96e5ec4961b18105a4a685e68f",
+        "image_path": "assets/images/biden.png",
+        "position": "right",
+        "offset_x": -150,
+        "offset_y": 100
+    }
+}

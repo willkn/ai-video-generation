@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Uh Rick what are we even talking about? What is a transformer",
+        "duration_ms": 5042,
+        "start_time_ms": 0,
+        "end_time_ms": 5042
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Its a machine Morty, a machine for words. Imagine every word is a color okay You give this thing a sentence and it figures out which colors go together. It pays attention to the important ones and ignores the dumb ones. Thats a transformer. It just pays attention to words.",
+        "duration_ms": 14890,
+        "start_time_ms": 5542,
+        "end_time_ms": 20432
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So its like a super dictionary",
+        "duration_ms": 2769,
+        "start_time_ms": 20932,
+        "end_time_ms": 23701
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "No Morty its not a dictionary. A dictionary is for morons who need to look things up. This thing understands context. It knows that bank can mean a place with money or the side of a river. It gets it. Its smarter than your principal.",
+        "duration_ms": 12356,
+        "start_time_ms": 24201,
+        "end_time_ms": 36557
+    }
+]

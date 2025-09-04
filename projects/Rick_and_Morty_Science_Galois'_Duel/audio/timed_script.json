@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, I heard something about Galois' Duel. What's that all about?",
+        "duration_ms": 4441,
+        "start_time_ms": 0,
+        "end_time_ms": 4441
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Ah, Galois' Duel. It's a story full of genius, math, and a bit of recklessness. Galois was this young French mathematician who pretty much invented a whole branch of algebra before he was even 20.",
+        "duration_ms": 9927,
+        "start_time_ms": 4941,
+        "end_time_ms": 14868
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wait, aren't duels with pistols, not pencils?",
+        "duration_ms": 2952,
+        "start_time_ms": 15368,
+        "end_time_ms": 18320
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly, Morty! The duel part, though, that's where things get dramatic. See, Galois was involved in some political mess and found himself in a duel over a love triangle and political disagreements.",
+        "duration_ms": 9091,
+        "start_time_ms": 18820,
+        "end_time_ms": 27911
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Okay, so how does this relate to math?",
+        "duration_ms": 2586,
+        "start_time_ms": 28411,
+        "end_time_ms": 30997
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Well, before the duel, Galois had these breakthrough ideas about solving polynomial equations. He was scribbling down all these thoughts in a form of mathematics now known as group theory. It's like the Rosetta Stone for algebra, helping understand symmetries and structures of solutions.",
+        "duration_ms": 13871,
+        "start_time_ms": 31497,
+        "end_time_ms": 45368
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Did that help him in the duel?",
+        "duration_ms": 1698,
+        "start_time_ms": 45868,
+        "end_time_ms": 47566
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Not the duel, Morty. It helped everyone else in understanding math better. Unfortunately, Galois was mortally wounded in the duel. His contributions were realized only after his death.",
+        "duration_ms": 9927,
+        "start_time_ms": 48066,
+        "end_time_ms": 57993
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So, he changed math forever but still didn't make it through the duel?",
+        "duration_ms": 3762,
+        "start_time_ms": 58493,
+        "end_time_ms": 62255
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Yeah, that's the tragic twist. Sometimes, pure genius and unfortunate circumstances make one hell of a story. Galois' life was short but his impact on math? Eternal.",
+        "duration_ms": 9221,
+        "start_time_ms": 62755,
+        "end_time_ms": 71976
+    }
+]

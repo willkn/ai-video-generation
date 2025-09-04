@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, how did Newton, you know, discover gravity?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Oh Morty, Newton did not 'discover' gravity. Gravity was around long before he smartened up."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "What do you mean? I thought an apple fell on his head or something."
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Sure, the apple thing is a cute story, Morty. But really, Newton was just sitting around one day, thinking about why stuff falls down instead of up."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So, was he the first one to think of that?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Many people noticed stuff falls, Morty. But Newton asked the right questions and wrote down the math."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So he was like, the first guy to put it all together?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly, Morty. He formulated how it works, with equations, gave it some Newtonian branding, and boom, scientific fame."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So it is not like he invented it, just explained it?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Pretty much, Morty. Gravity got a PR boost, thanks to Newton. That is all there is to it."
+    }
+]

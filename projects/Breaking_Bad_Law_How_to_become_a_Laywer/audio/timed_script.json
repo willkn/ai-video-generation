@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Walter",
+        "dialogue": "Saul, I'm getting worried about how out of control this is getting. Maybe I need someone who knows how to play things right. How did you get so good at this?",
+        "duration_ms": 8908,
+        "start_time_ms": 0,
+        "end_time_ms": 8908
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Well, Walt, the first step to becoming a lawyer, someone who knows how to navigate the system, is to hit the books. You gotta go to college, get that diploma. No shortcuts there. Gotta look good on paper.",
+        "duration_ms": 12147,
+        "start_time_ms": 9408,
+        "end_time_ms": 21555
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "So, just college? That seems simple enough.",
+        "duration_ms": 3944,
+        "start_time_ms": 22055,
+        "end_time_ms": 25999
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Hold your horses, Professor. That's just the appetizer. After your degree, you’ll need to go to law school. Long hours, lots of coffee, but you learn to think like a shark. It's your ticket to the game.",
+        "duration_ms": 12147,
+        "start_time_ms": 26499,
+        "end_time_ms": 38646
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "And then you just start practicing, right?",
+        "duration_ms": 2038,
+        "start_time_ms": 39146,
+        "end_time_ms": 41184
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Not so fast, cowboy. You gotta pass the bar exam first. It's like a giant test confirming you can play by the rules. Then, voilá! You’re set to offer services, help people like you maintain appearances. You need a guy who makes things look right or they’ll come down on you like a ton of bricks.",
+        "duration_ms": 18390,
+        "start_time_ms": 41684,
+        "end_time_ms": 60074
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "Sounds like quite the path, Saul.",
+        "duration_ms": 2325,
+        "start_time_ms": 60574,
+        "end_time_ms": 62899
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Yeah, but once you're there, the fun starts. You help folks keep their businesses running...smoothly. It's all about understanding the limits and working just inside them, the right way, of course.",
+        "duration_ms": 10475,
+        "start_time_ms": 63399,
+        "end_time_ms": 73874
+    }
+]

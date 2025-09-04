@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, whats the big deal about quantum physics? It sounds complicated.",
+        "duration_ms": 4545,
+        "start_time_ms": 0,
+        "end_time_ms": 4545
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Morty, quantum physics is like the universe threw out common sense and decided to party with probabilities.",
+        "duration_ms": 5042,
+        "start_time_ms": 5045,
+        "end_time_ms": 10087
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Uh, probabilities? What do you mean by that?",
+        "duration_ms": 2821,
+        "start_time_ms": 10587,
+        "end_time_ms": 13408
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Think of it this way, Morty. Until you observe something at the quantum level, it exists in all possible states at once.",
+        "duration_ms": 6400,
+        "start_time_ms": 13908,
+        "end_time_ms": 20308
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wait, what? How can something be in more than one state?",
+        "duration_ms": 3709,
+        "start_time_ms": 20808,
+        "end_time_ms": 24517
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Its a probabilities game, Morty. Particles do not have definite positions until you look at them.",
+        "duration_ms": 5146,
+        "start_time_ms": 25017,
+        "end_time_ms": 30163
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "That sounds totally nuts, Rick.",
+        "duration_ms": 1855,
+        "start_time_ms": 30663,
+        "end_time_ms": 32518
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Yup, welcome to the weird world of quantum physics, Morty. Where tiny stuff plays by different rules.",
+        "duration_ms": 5512,
+        "start_time_ms": 33018,
+        "end_time_ms": 38530
+    }
+]

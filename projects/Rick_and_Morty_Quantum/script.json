@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, whats the deal with quantum physics?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Alright Morty, imagine the universe is like a huge video game, full of cheat codes and glitches. Quantum physics is the crazy rules that make it all run."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Uh, glitches? So things dont always follow rules?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly. At a tiny scale, particles dont act predictable. They can be in two places at once or pop in and out of existence, like a really buggy NPC."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "That sounds kinda... broken?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Broken or genius, Morty. Depends if you like order or chaos. It can create unbreakable encryption or blow your mind with possibilities."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wow, talk about a wild ride..."
+    }
+]

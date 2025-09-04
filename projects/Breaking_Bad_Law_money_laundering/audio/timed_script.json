@@ -1,0 +1,58 @@
+[
+    {
+        "speaker": "Walter",
+        "dialogue": "Saul, I've got all this... investment. How do we make it look clean?",
+        "duration_ms": 32601,
+        "start_time_ms": 0,
+        "end_time_ms": 32601
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Alright, Walt, ever heard of washing dirty money? Picture a laundromat, for cash. We'll channel your funds through a legitimate front, like a car wash or a restaurant.",
+        "duration_ms": 12121,
+        "start_time_ms": 33101,
+        "end_time_ms": 45222
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "A car wash? Wouldn't someone notice?",
+        "duration_ms": 4180,
+        "start_time_ms": 45722,
+        "end_time_ms": 49902
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Only if it's not run smart. We inflate sales, skim a little from the register, the whole bit. The system eats it up nice and cozy, and you're golden as long as the operation's tidy.",
+        "duration_ms": 11964,
+        "start_time_ms": 50402,
+        "end_time_ms": 62366
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "But what if someone asks questions?",
+        "duration_ms": 2769,
+        "start_time_ms": 62866,
+        "end_time_ms": 65635
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "That's why you stick to cash-heavy businesses. There's wiggle room. You're just another taxpayer with a knack for success.",
+        "duration_ms": 8542,
+        "start_time_ms": 66135,
+        "end_time_ms": 74677
+    },
+    {
+        "speaker": "Walter",
+        "dialogue": "And the profits?",
+        "duration_ms": 1515,
+        "start_time_ms": 75177,
+        "end_time_ms": 76692
+    },
+    {
+        "speaker": "Saul",
+        "dialogue": "Filter it back to you in dividends, salaries, dividends. Call it profit sharing. Just remember, keep the books neat and the jokes funnier than the taxman.",
+        "duration_ms": 12434,
+        "start_time_ms": 77192,
+        "end_time_ms": 89626
+    }
+]

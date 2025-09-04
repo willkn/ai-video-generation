@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Trump",
+        "dialogue": "Okay, folks, let's talk about the US Elections, the greatest elections, frankly the best ever, because of me, okay? You remember 2016, America said 'enough with the usual politicians, let's get a dealmaker!'",
+        "duration_ms": 13401,
+        "start_time_ms": 0,
+        "end_time_ms": 13401
+    },
+    {
+        "speaker": "Biden",
+        "dialogue": "Come on, man, let's get real. Elections are about democracy, giving a voice to the people. It's not all about showbiz or who's got the loudest microphone.",
+        "duration_ms": 11468,
+        "start_time_ms": 13901,
+        "end_time_ms": 25369
+    },
+    {
+        "speaker": "Trump",
+        "dialogue": "Oh, sleepy Joe, there you go again. Loud? People love my rallies, it's like a rock concert, only better—huge crowds! We made elections exciting again!",
+        "duration_ms": 10893,
+        "start_time_ms": 25869,
+        "end_time_ms": 36762
+    },
+    {
+        "speaker": "Biden",
+        "dialogue": "Exciting, sure, if you like roller coasters with no brakes. Elections are about policy, not just who can scream the loudest.",
+        "duration_ms": 7053,
+        "start_time_ms": 37262,
+        "end_time_ms": 44315
+    },
+    {
+        "speaker": "Trump",
+        "dialogue": "Policy, right. Let's talk policy. My policy is winning. Winning so much you'll get tired of winning. I brought jobs back, did you?",
+        "duration_ms": 8856,
+        "start_time_ms": 44815,
+        "end_time_ms": 53671
+    },
+    {
+        "speaker": "Biden",
+        "dialogue": "Jobs? You outsourced half of them to Twitter. And what's winning? Is that a new brand of spray tan?",
+        "duration_ms": 6531,
+        "start_time_ms": 54171,
+        "end_time_ms": 60702
+    },
+    {
+        "speaker": "Trump",
+        "dialogue": "Fake news, Joe. Spray tan, believe me, it's natural. And Twitter, you can't even find the tweet button without calling for help.",
+        "duration_ms": 8307,
+        "start_time_ms": 61202,
+        "end_time_ms": 69509
+    },
+    {
+        "speaker": "Biden",
+        "dialogue": "Well, at least I'm not banned from tweeting. Elections, folks, they're about integrity, making sure every vote counts, not just the ones that get you golf buddies.",
+        "duration_ms": 9848,
+        "start_time_ms": 70009,
+        "end_time_ms": 79857
+    },
+    {
+        "speaker": "Trump",
+        "dialogue": "Integrity? I know more about integrity than anyone, ask anybody. My elections were the cleanest, the most honest, except when they weren't—everyone knows it.",
+        "duration_ms": 9691,
+        "start_time_ms": 80357,
+        "end_time_ms": 90048
+    },
+    {
+        "speaker": "Biden",
+        "dialogue": "Yeah, sure. Maybe you should write a book, 'How to Lose an Election and Blame it on Everybody Else.' Step one: forget what democracy means.",
+        "duration_ms": 8856,
+        "start_time_ms": 90548,
+        "end_time_ms": 99404
+    }
+]

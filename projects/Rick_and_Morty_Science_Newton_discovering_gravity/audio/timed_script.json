@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, how did Newton, you know, discover gravity?",
+        "duration_ms": 3944,
+        "start_time_ms": 0,
+        "end_time_ms": 3944
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Oh Morty, Newton did not 'discover' gravity. Gravity was around long before he smartened up.",
+        "duration_ms": 5512,
+        "start_time_ms": 4444,
+        "end_time_ms": 9956
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "What do you mean? I thought an apple fell on his head or something.",
+        "duration_ms": 3291,
+        "start_time_ms": 10456,
+        "end_time_ms": 13747
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Sure, the apple thing is a cute story, Morty. But really, Newton was just sitting around one day, thinking about why stuff falls down instead of up.",
+        "duration_ms": 6452,
+        "start_time_ms": 14247,
+        "end_time_ms": 20699
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So, was he the first one to think of that?",
+        "duration_ms": 2273,
+        "start_time_ms": 21199,
+        "end_time_ms": 23472
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Many people noticed stuff falls, Morty. But Newton asked the right questions and wrote down the math.",
+        "duration_ms": 4676,
+        "start_time_ms": 23972,
+        "end_time_ms": 28648
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So he was like, the first guy to put it all together?",
+        "duration_ms": 2926,
+        "start_time_ms": 29148,
+        "end_time_ms": 32074
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly, Morty. He formulated how it works, with equations, gave it some Newtonian branding, and boom, scientific fame.",
+        "duration_ms": 7105,
+        "start_time_ms": 32574,
+        "end_time_ms": 39679
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So it is not like he invented it, just explained it?",
+        "duration_ms": 3291,
+        "start_time_ms": 40179,
+        "end_time_ms": 43470
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Pretty much, Morty. Gravity got a PR boost, thanks to Newton. That is all there is to it.",
+        "duration_ms": 4545,
+        "start_time_ms": 43970,
+        "end_time_ms": 48515
+    }
+]

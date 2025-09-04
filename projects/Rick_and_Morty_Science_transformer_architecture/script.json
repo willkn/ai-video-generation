@@ -1,0 +1,34 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Hey Rick, what exactly are transformers, like, in terms of computers?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Morty, do you really want to dive into this synthetic neuro-linguistic mess? Fine. Transformers are like really smart algorithms for understanding and generating language."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So, theyre just... smarter computers?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Not just smarter, Morty. Transformers use something called attention to figure out which parts of the input data are important. Its like their version of focusing."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Attention? Like when I try to pay attention in class?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Kind of. Except instead of daydreaming, the attention mechanism figures out which words matter more in a sentence. Then it can predict the next word or translate languages, you know, stuff youre bad at."
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Oh man, so they understand languages better than most humans?"
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Well, they mimic language patterns really well, but they are not self-aware. They cant brew their own coffee or complain about Mondays, Morty."
+    }
+]

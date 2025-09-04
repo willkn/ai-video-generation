@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "Morty",
+        "dialogue": "Uh, Rick, what's the deal with this Galois guy's final duel thing?",
+        "duration_ms": 3840,
+        "start_time_ms": 0,
+        "end_time_ms": 3840
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Alright, Morty, listen up. Galois was a genius mathematician, but he was more into solving math puzzles than, uh, watching his own back.",
+        "duration_ms": 6452,
+        "start_time_ms": 4340,
+        "end_time_ms": 10792
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wait, math and duels? How do those even mix, Rick?",
+        "duration_ms": 3657,
+        "start_time_ms": 11292,
+        "end_time_ms": 14949
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "They dont, Morty. For him, it was like fighting algebra with a pistol. This duel happened because of some dumb political and romantic mix-up.",
+        "duration_ms": 7837,
+        "start_time_ms": 15449,
+        "end_time_ms": 23286
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "So, he was like, in a fight over math or... love?",
+        "duration_ms": 5016,
+        "start_time_ms": 23786,
+        "end_time_ms": 28802
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "More love than math, Morty. Dude had enemies. Spent his last night writing down his groundbreaking ideas, got shot next day in the duel.",
+        "duration_ms": 6583,
+        "start_time_ms": 29302,
+        "end_time_ms": 35885
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Thats, uh, kinda tragic. His math work was important, right?",
+        "duration_ms": 3579,
+        "start_time_ms": 36385,
+        "end_time_ms": 39964
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Super important, Morty. It changed everything in algebra. He basically died for his work, so his chaos led to our order in math.",
+        "duration_ms": 6949,
+        "start_time_ms": 40464,
+        "end_time_ms": 47413
+    },
+    {
+        "speaker": "Morty",
+        "dialogue": "Wow, Rick. Thats intense. So he wrote all that stuff down while thinking he might not make it?",
+        "duration_ms": 6087,
+        "start_time_ms": 47913,
+        "end_time_ms": 54000
+    },
+    {
+        "speaker": "Rick",
+        "dialogue": "Exactly, Morty. The world got his math, but he paid the ultimate price. Genius lasts even if you dont.",
+        "duration_ms": 5564,
+        "start_time_ms": 54500,
+        "end_time_ms": 60064
+    }
+]
