@@ -34,8 +34,8 @@ Watch a demo of the AI Video Generator in action:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/willkn/ai-video-generation.git
+    cd ai-video-generation
     ```
 
 2.  **Install Python dependencies**:
