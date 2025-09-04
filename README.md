@@ -2,6 +2,12 @@
 
 This project automates the creation of short, engaging videos by combining AI-generated dialogue, synthesized speech, and custom video elements. It's designed to make it easy to produce content like explainer videos, comedic skits, or educational snippets featuring various characters.
 
+## Demo Video
+
+Watch a demo of the AI Video Generator in action:
+
+[Watch Demo](https://www.youtube.com/shorts/1JCQIJ7xAtY)
+
 ## Features
 
 *   **AI-Powered Dialogue Generation**: Leverages AI models to create natural-sounding dialogue for selected characters on a given topic, adhering to specific character personalities and constraints.
